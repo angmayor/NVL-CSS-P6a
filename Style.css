@@ -1,0 +1,47 @@
+.primero{
+	background-color: #fef9e7;
+}
+.segundo{
+	background-color: #FCF3CF;
+}
+.tercero{
+	background-color: #f9e79f;
+}
+.cuarto{
+	background-color: #f7dc6f;
+}
+.quinto{
+	background-color: #f4d03f;
+}
+.sexto{
+	background-color: #f1c40f;
+}
+.septimo{
+	background-color: #d4ac0d;
+}
+.octavo{
+	background-color: #b7950b;
+}
+.noveno{
+	background-color: #9a7d0a;
+}
+.decimo{
+	background-color: #7d6608;
+	border: #000000;
+}
+.titulo{
+	text-align: center;
+	font: bold 20px/20px Georgia, sans-serif;
+}
+div{
+	margin: : 1px 10px 10px 10px;
+	padding: 1px 150px 10px 150px;
+	border: 1px 10px 10px 10px;
+
+}
+table{
+	border: 5px solid black; 
+}
+body {
+    font: 20px/20px Georgia, sans-serif;
+}
